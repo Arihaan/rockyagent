@@ -1,0 +1,22 @@
+{
+  "name": "rocky",
+  "version": "1.0.0",
+  "description": "Agent framework for investment DAOs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.15.3",
+    "openai": "^4.24.1",
+    "ethers": "^6.10.0",
+    "@supabase/supabase-js": "^2.39.6",
+    "axios": "^1.6.7",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+} 
