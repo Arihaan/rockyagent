@@ -1,5 +1,7 @@
 # Rocky: AI-Powered Investment DAO Framework
 
+<img width="921" alt="Screenshot 2025-04-10 at 2 56 52 am" src="https://github.com/user-attachments/assets/c350134d-481c-429e-9688-be5fabe96b41" />
+
 Rocky is an agent framework designed for investment DAOs that streamlines processes, crowdsources group knowledge, and accelerates idea execution. The framework consists of three Telegram bots that work together to manage the entire investment process from pitch submission to execution.
 
 ## 🤖 Bot Agents
